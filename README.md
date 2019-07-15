@@ -1,0 +1,2 @@
+# myBlo
+django blog project
